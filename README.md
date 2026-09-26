@@ -16,13 +16,9 @@
 
 ## 📱 Screenshots
 
-| Home & Projects | Photo Selection | Video Editor |
-| :---: | :---: | :---: |
-| *[Add screenshot]* | *[Add screenshot]* | *[Add screenshot]* |
-
-| Animations & Transitions | Photo Adjustments | Export & Video Ready |
-| :---: | :---: | :---: |
-| *[Add screenshot]* | *[Add screenshot]* | *[Add screenshot]* |
+| Home & Projects | Photo Selection | Video Editor | Video Ready / Export |
+| :---: | :---: | :---: | :---: |
+| <img src="docs/screenshots/home.jpg" width="220" alt="Home Screen" /> | <img src="docs/screenshots/gallery.jpg" width="220" alt="Photo Selection" /> | <img src="docs/screenshots/editor.jpg" width="220" alt="Video Editor" /> | <img src="docs/screenshots/export.jpg" width="220" alt="Export Success" /> |
 
 ---
 
